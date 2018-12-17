@@ -3,7 +3,7 @@
 Für Slides und Code Beispiele, siehe [Lektion 12](../../../fhnw-syspr/blob/master/12/README.md)
 
 > *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
-> *[Prüfen Sie die vorhandenen Forks, um das Repository für Ihre Klasse zu finden.](../../network/members)*
+> *[Erstellen Sie eine persönliche Kopie, mit diesem GitHub Classroom Link](https://classroom.github.com/a/gngE3Gkg).*
 
 ### a) Message Queues, 30'
 * Lesen Sie die folgenden [TLPI](http://man7.org/tlpi/) Beispiel Programme:<pre>
